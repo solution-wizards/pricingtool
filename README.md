@@ -11,9 +11,23 @@
 <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSt4oPbE-I4ZRHMR0I2hTh_hoGG19_JOYIF28XzJTjEWmSbkw84Ly5d2NMEht3Tk5TEQnnRpRYDqIo5/pubhtml">View Calculation Source
 
 
+Lorem ipsum Lorem ipsum Lorem ipsum [1]
+
+
+[1]: <solutionwizards.net> (Reference Link)
+
 ## **Code Sections**
 >"Justification for this Project"
 
+<code>`<div`>example code block 
+`</div`> 
+`<div`>example code block 
+`</div`> 
+`<div`>example code block `</div`> `<div`>example code block `</div`> `<div`>example code block `</div`> 
+
+
+
+</code>
 
 
 
