@@ -8,7 +8,7 @@
 
 <img src="https://dl.airtable.com/.attachmentThumbnails/1ca06af57bf7e2d2b4f58c0c10932591/7dd98b98" alt="Notes Part 3" width="450" height="450">
 
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSt4oPbE-I4ZRHMR0I2hTh_hoGG19_JOYIF28XzJTjEWmSbkw84Ly5d2NMEht3Tk5TEQnnRpRYDqIo5/pubhtml">View Calculation Source
+<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSt4oPbE-I4ZRHMR0I2hTh_hoGG19_JOYIF28XzJTjEWmSbkw84Ly5d2NMEht3Tk5TEQnnRpRYDqIo5/pubhtml">View Calculation Source</a>
 
 
 Lorem ipsum Lorem ipsum Lorem ipsum [1]
