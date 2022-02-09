@@ -13,8 +13,8 @@
 
 Lorem ipsum Lorem ipsum Lorem ipsum [1]
 
-
-[1]: <solutionwizards.net> (Reference Link)
+## Credit Links
+[1]: <https://solutionwizards.net> (Reference Link)
 
 ## **Code Sections**
 >"Justification for this Project"

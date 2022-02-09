@@ -1,5 +1,3 @@
-let h = "GoHam"
-
 // <!--First Flow -->
 
 
