@@ -1,25 +1,25 @@
 /* Line Break Style One */
-hr.new1 {
+#new1 {
   border-top: 1px solid red;
 }
 
 /* Line Break Style Two */
-hr.new2 {
+#new2 {
   border-top: 1px dashed red;
 }
 
 /* Line Break Style Three */
-hr.new3 {
+#new3 {
   border-top: 1px dotted red;
 }
 
 /* Line Break Style Four */
-hr.new4 {
+#new4 {
   border: 1px solid red;
 }
 
 /* Line Break Style Fifth */
-hr.new5 {
+#new5 {
   border: 10px solid green;
   border-radius: 5px;
 }
